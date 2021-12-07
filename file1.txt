@@ -1,0 +1,7 @@
+i cd
+pwd
+mkdir
+ls
+touch file3.txt
+
+to exit from VI editor then press esc
