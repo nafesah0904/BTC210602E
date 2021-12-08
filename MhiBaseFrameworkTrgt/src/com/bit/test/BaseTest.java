@@ -21,6 +21,7 @@ public class BaseTest {
 		
 	
 	}
+	///add check up GIT
 	
 	@After
 	public void closeBrowser() {
